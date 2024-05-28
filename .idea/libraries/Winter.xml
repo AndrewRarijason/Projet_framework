@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Winter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Winter.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
