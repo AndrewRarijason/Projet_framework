@@ -3,7 +3,7 @@ set bin=bin
 set src=src\*.java
 set jarname=Winter
 
-set projectlib=D:\S4\webdynamique\SPRINTS\DeployWinter\lib
+set projectlib=E:\ITU\Mr Naina\P16\Sprint\SPRINTS\DeployWinter\lib
 
 javac -cp "%lib%\*"   -d    "%bin%"   %src%
 
