@@ -166,4 +166,14 @@ public class Utils {
             out.println(e.getLocalizedMessage());
         }
     }
+
+    public static boolean hasDuplicateKeys(HashMap<String, Mapping> map) {
+        Set<String> keysSet = new HashSet<>();
+        for (String key : map.keySet()) {
+            if (!keysSet.add(key)) {
+                return true;
+            }
+        }
+        return false;
+    }
 }
