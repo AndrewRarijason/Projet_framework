@@ -7,7 +7,7 @@ set "lib=%root%\lib"
 
 set "temp=%root%\temp"
 set "src=%root%\src"
-set "target_dir=E:\ITU\Mr Naina\P16\Sprint\SPRINTS\DeployWinter\lib"
+set "target_dir=E:\ITU\MrNaina\P16\Sprint\SPRINTS\DeployWinter\lib"
 
 set "jar_name=Winter"
 
